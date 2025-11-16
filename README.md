@@ -1,4 +1,7 @@
 # 🖤🎨 BW COLORIZER
+![result-1](https://github.com/user-attachments/assets/10fa2827-219f-4cad-9667-961cf9c11435)
+![result-2](https://github.com/user-attachments/assets/3604f70c-78ce-4386-ad34-c874d08488c8)
+![result-3](https://github.com/user-attachments/assets/9518dce8-ddbc-44b3-a785-3b1ae00034b7)
 
 A GUI application for colorizing **black & white** photos into **full-color** images using the SIGGRAPH AI model (Caffe + OpenCV DNN).
 
